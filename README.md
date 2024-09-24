@@ -17,7 +17,7 @@ Computer Science Engineering Student
 <img height="50" width="50" src="http://localhost:8080/static/a0ade750/images/svgs/logo.svg"/> <img height="50" width="50" src=""/> <img height="50" width="50" src=""/> 
  
 ### 💻 Workspace Spec
-<img width="48" height="48" src="https://p4-ofp.static.pub/fes/cms/2022/11/14/h82es5y402b4rh1089sf86ay7n9sdl721044.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/windows-11.png" alt="windows-11"/>
+<img  height="48" src="https://p4-ofp.static.pub/fes/cms/2022/11/14/h82es5y402b4rh1089sf86ay7n9sdl721044.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/windows-11.png" alt="windows-11"/>
 
 ![Ruthraguru github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruthraguru&bg_color=000000&color=ffffff&line=21b53a&point=ffffff&area=true&hide_border=true)
 
