@@ -3,8 +3,7 @@
 Computer Science Engineering Student
 
 - 🔭 I’m currently Fresher
-- 🌱 I’m currently AWS Devops
-- 👯 I’m looking to 
+- 🌱 I’m currently AWS Devops 
 - 🤔 I’m looking for Job
 - 💬 Ask me Tech
 - 📫 How to reach me:
