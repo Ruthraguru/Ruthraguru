@@ -13,9 +13,8 @@ Computer Science Engineering Student
 - ⚡ Fun fact: I don't like Girls
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 
-  
 WorkSpace Spec
 
 ![Ruthraguru github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruthraguru&bg_color=000000&color=ffffff&line=21b53a&point=ffffff&area=true&hide_border=true)
